@@ -9,7 +9,7 @@ Step 1: Define the pattern rows <br/>
 Step 2: Define the pattern columns <br/>
 &ensp; &ensp; &ensp; 2.1. compute the space and symbol locations <br/>
 &emsp; &emsp; &emsp; 2.1.1 Index-positioning method <br/>
-&emsp; &emsp; &emsp; 2.1.2 Dimensional mathematical formulation method <br/>
+&emsp; &emsp; &emsp; 2.1.2 Dimensional formulation method <br/>
 &emsp; &emsp; &emsp; 2.1.3 Boundary analysis method <br/>
 Step 3: Reverse the row-iteration to construct inverted shapes <br/>
 Step 4: Change line after every row-iteration
