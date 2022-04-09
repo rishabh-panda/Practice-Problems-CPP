@@ -18,7 +18,7 @@ int bin_to_hex(int binary)
 
     //decimal to hexadecimal
     int hex_output[20];
-    int i=0;
+    int i=1;
     while (decimal)
     {
         int remainder2 = decimal%16;
@@ -26,7 +26,7 @@ int bin_to_hex(int binary)
         decimal /= 16;
     }
 
-    for (int j = i-1; j >= 0; j--)
+    for (int j = i-1; j > 0; j--)
     {
         if (hex_output[j]>9)
         {
